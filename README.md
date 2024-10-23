@@ -7,12 +7,12 @@ Retail Sales Forecast employs advanced machine learning techniques, prioritizing
 Key Technologies and Skills
 
 - Python
--Scikit-Learn
--Numpy
--Pandas
--Matplotlib
--Seaborn
--Streamlit
+- Scikit-Learn
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Streamlit
 
 **Data Preprocessing:**
 
